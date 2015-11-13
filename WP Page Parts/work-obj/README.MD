@@ -1,5 +1,5 @@
 ## Example Usage
-```
+```PHP
 <section id="work" class="container-fluid">
 <div class="row">
 <?php 
